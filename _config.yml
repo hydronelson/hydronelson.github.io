@@ -1,1 +1,26 @@
-theme: minima
+# -------------------------------------------------------------------
+# Site Settings
+# -------------------------------------------------------------------
+title: "Hydro Nelson"
+description: "My professional portfolio and blog"
+url: "https://hydronelson.github.io" # Change to your actual GitHub URL
+baseurl: "" # Leave blank unless your site is in a subdirectory
+
+# -------------------------------------------------------------------
+# Theme Selection
+# -------------------------------------------------------------------
+theme: jekyll-theme-midnight
+
+# -------------------------------------------------------------------
+# Midnight Theme Specific Customization
+# -------------------------------------------------------------------
+# The Midnight theme automatically creates headers and navigation 
+# buttons based on your repository status. You can also track metrics:
+# google_analytics: "UA-00000000-1" # Replace with your tracking ID if you have one
+
+# -------------------------------------------------------------------
+# Plugins
+# -------------------------------------------------------------------
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
