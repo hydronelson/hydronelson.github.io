@@ -1,8 +1,6 @@
-# hydronelson.github.io
-Professional Portfolio
-## Computer Science | KYSU 2016 
+# Professional Portfolio
+## Computer Science | KYSU 2016
 
-# Hydro Nelson
 
 Water treatment operator and data analyst integrating a computer science and mathematics background with municipal water utility operations — working toward research at the intersection of drinking water, open-source analytics, and high-performance computing.
 
