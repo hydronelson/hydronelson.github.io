@@ -28,7 +28,7 @@ Water treatment operator and data analyst integrating a computer science and mat
 - NC C-Surface Water Operator (North Carolina Water Treatment Facility Operators Board of Certification)
 - NC C-Distribution Operator (North Carolina Water Treatment Facility Operators Board of Certification)
 - NC Cross-Connection Control (North Carolina Water Treatment Facility Operators Board of Certification)
-- Water Treatment Apprenticeship (NCRWA, federal apprenticeship) — B-Surface and B-Distribution in progress
+- Water Treatment Apprenticeship (NCRWA) — B-Surface and B-Distribution in progress
 
 ## Tools
 
